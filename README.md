@@ -40,61 +40,56 @@ ToolBox is a consolidated Flutter application showcasing multiple self-contained
 <tr>
 <td align="center"><b>🏠 Home Dashboard</b></td>
 <td align="center"><b>✅ Todo Manager</b></td>
+<td align="center"><b>Counter</b></td>
 </tr>
 
 <tr>
 <td>
-<img src="https://placehold.co/300x650?text=Home+Dashboard" width="250">
+<img src="assets/img/home.png" width="250">
 
-<!-- Replace with:
-<img src="assets/screenshots/home.png" width="250">
--->
+
 </td>
 
 <td>
-<img src="https://placehold.co/300x650?text=Todo+Manager" width="250">
+<img src="assets/img/manege task.png" width="250">
 
-<!-- Replace with:
-<img src="assets/screenshots/todo.png" width="250">
--->
+
+</td>
+<td>
+<img src="assets/img/counter app.png" width="250">
+
+
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>⚖️ BMI Calculator</b></td>
 <td align="center"><b>🧮 Calculator</b></td>
+<td align="center"><b>Length converter</b></td>
 </tr>
 
 <tr>
 <td>
-<img src="https://placehold.co/300x650?text=BMI+Calculator" width="250">
+<img src="assets/img/bmi.png" width="250">
 
-<!-- Replace with:
-<img src="assets/screenshots/bmi.png" width="250">
--->
+
 </td>
 
 <td>
-<img src="https://placehold.co/300x650?text=Calculator" width="250">
+<img src="assets/img/calculator.png" width="250">
 
-<!-- Replace with:
-<img src="assets/screenshots/calculator.png" width="250">
--->
 </td>
+<td>
+<img src="assets/img/length converter.png" width="250">
+
+</td>
+
 </tr>
 
 </table>
 
-### Expected Folder Structure
 
-```text
-assets/
-└── screenshots/
-    ├── home.png
-    ├── todo.png
-    ├── bmi.png
-    └── calculator.png
-```
+
 
 ---
 
